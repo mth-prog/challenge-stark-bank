@@ -1,0 +1,5 @@
+starkbank,
+Flask,
+APScheduler,
+pyngrok,
+python-dotenv
